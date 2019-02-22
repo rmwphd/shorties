@@ -26,13 +26,13 @@ def WYWOT(*args):
     <body>\
     \
     <svg height="900" width="800" xmlns:xlink="http://www.w3.org/1999/xlink">\
-    <text x="50" y="90" fill="blue" font-family="Verdana" font-size="78">%s</text>\
-    <text x="0" y="-60" fill="red" font-family="Verdana" font-size="78" \
+    <text x="50" y="90" fill="MidnightBlue" font-family="Verdana" font-size="78">%s</text>\
+    <text x="0" y="-60" fill="DarkCyan" font-family="Verdana" font-size="78" \
     transform="rotate(180 380,30)">%s</text>\
     <text x="50" y="360" fill="green" font-family="Verdana" font-size="78">%s</text>\
-    <text x="0" y="-330" fill="blue" font-family="Verdana" font-size="78" \
+    <text x="0" y="-330" fill="MidnightBlue" font-family="Verdana" font-size="78" \
     transform="rotate(180 380,30)">%s</text>\
-    <text x="50" y="630" fill="red" font-family="Verdana" font-size="78">%s</text>\
+    <text x="50" y="630" fill="DarkCyan" font-family="Verdana" font-size="78">%s</text>\
     <text x="0" y="-600" fill="green" font-family="Verdana" font-size="78" \
     transform="rotate(180 380,30)">%s</text>\
     Sorry, your browser does not support inline SVG.\
